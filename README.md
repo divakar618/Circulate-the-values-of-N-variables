@@ -15,7 +15,9 @@ declare a keyword starting with def.
 Using the slicing concept rotate the list
 
 ### Step 5: 
+check the input is given correctly.
 ### Step 6: 
+end the program.
 ## Program:
 ```
 def circulate():
