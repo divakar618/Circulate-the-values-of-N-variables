@@ -6,9 +6,11 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+get the list of values from the user.
 ### Step 2: 
-### Step 3: 
 Get the value from the user for the number of rotation
+### Step 3: 
+declare a keyword starting with def.
 ### Step 4: 
 Using the slicing concept rotate the list
 
